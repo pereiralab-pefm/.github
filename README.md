@@ -1,2 +1,5 @@
-# .github
-Special profile readme repository pereiralab-pefm/.github is a ✨special ✨ repository that you can use to add a README.md to your public organization profile, visible to anyone. Make sure it’s public and initialize it with a README in the profile directory to get started.
+# Welcome to the Pereira Lab 
+
+#### We uncover the unknowns hidden in protein databases
+
+By applying complex network analysis, graph algorithms, and deep learning, we aim to develop approaches to better interpret the massive and ever-growing protein sequence, structure, and function data in public repositories.
